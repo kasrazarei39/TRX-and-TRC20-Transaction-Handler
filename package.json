@@ -1,0 +1,23 @@
+{
+  "name": "tron_node_client",
+  "version": "1.0.0",
+  "description": "NodeJs Client For Tron",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "express-async-handler": "^1.1.4",
+    "node-cron": "^3.0.0",
+    "pg": "^8.7.3",
+    "properties-reader": "^2.2.0",
+    "regenerator-runtime": "^0.13.9",
+    "sequelize": "^6.17.0",
+    "trongrid": "^1.2.6",
+    "tronweb": "^4.0.0"
+  }
+}

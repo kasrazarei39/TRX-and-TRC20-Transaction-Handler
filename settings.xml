@@ -1,0 +1,27 @@
+<settings>
+  <servers>
+
+
+    <server>
+      <id>maven-releases</id>
+      <username>gitlabci</username>
+      <password>gitlabci</password>
+    </server>
+
+
+    <server>
+      <id>maven-snapshots</id>
+      <username>gitlabci</username>
+      <password>gitlabci</password>
+    </server>
+
+
+    <server>
+      <id>maven-group</id>
+      <username>gitlabci</username>
+      <password>gitlabci</password>
+    </server>
+
+
+  </servers>
+</settings>
